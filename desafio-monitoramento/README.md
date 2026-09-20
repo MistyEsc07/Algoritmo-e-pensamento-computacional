@@ -1,5 +1,6 @@
-#Código explicado
-No código, inicialmente, o usuário informa um limite e a quantidade de temperaturas que deseja registrar. Importantes para o seguimento do código, especificamente o relatório do final.
+# Código explicado
+
+No programa, inicialmente, o usuário informa um limite e a quantidade de temperaturas que deseja registrar. Importantes para o seguimento do código, especificamente o relatório do final.
 
 O programa utiliza um do while para validar o limite e um for para receber as temperaturas. Durante a execução, são calculadas a média, a maior e a menor temperatura, além da quantidade de valores acima do limite. 
 
